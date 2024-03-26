@@ -1,0 +1,4 @@
+print("※催眠・催眠音声はトランスに変換されます。あらかじめご承知おきください。")
+string0 = input("文字列を入力してください")
+
+print(string0.replace('メスガキ', 'ざぁ～こ♡').replace('逆レイプ', '逆レ').replace('催眠音声', 'トランス').replace('レイプ', '合意なし').replace('ロリ', 'ひよこ').replace('監禁', '閉じ込め').replace('鬼畜', '超ひどい').replace('強制', '命令').replace('近親相姦', '近親もの').replace('拷問', '責め苦').replace('催眠', 'トランス').replace('獣姦', '動物なかよし').replace('洗脳', '精神支配').replace('痴漢', '秘密さわさわ').replace('調教', 'しつけ').replace('奴隷', '下僕').replace('陵辱', '屈辱').replace('輪姦', '回し').replace('蟲姦', '虫えっち').replace('モブ姦', 'モブおじさん').replace('異種姦', '異種えっち').replace('機械姦', '機械責め').replace('睡眠姦', 'すやすや責め'))
